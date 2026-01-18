@@ -179,4 +179,4 @@ If you're unable to paste it type allow paste and it should work.
 
 After this you wait on the screen and do nothing the quest will end in 15 minutes.
 
-you can also can track the progress by looking at the Quest progress: Prints in the Console tab or you can look at the progress bar in the quest tab.
+You also can track the progress by looking at the Quest progress: Prints in the Console tab or you can look at the progress bar in the quest tab.
